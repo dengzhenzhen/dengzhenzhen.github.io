@@ -12,14 +12,14 @@ github_repo: "https://github.com/dengzhenzhen/dengzhenzhen.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/715e7edc65904110b0bb9b52e24272b1-560x560.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-#weibo_username:     
-zhihu_username:     邓震震
+weibo_username:     2995800843 
+zhihu_username:     bench
 github_username:    dengzhenzhen
 #facebook_username:  
 #jianshu_username:   
@@ -99,9 +99,6 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
         title: "Apple",
         href: "https://apple.com"
     },{
