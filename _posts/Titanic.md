@@ -9,7 +9,7 @@ catalog: 	 true
 tags:
     - python
     - matplotlib
-	- data analysis
+    - data analysis
 ---
 
 # 泰坦尼克号事故生还率和各因素之间数据分析
