@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      一个数据分析的hello world
+title:      一个数据分析的hello-world
 subtitle:   泰坦尼克号事故生还率和各因素之间数据分析
 date:       2018-07-29
 author:     dengzhenzhen
