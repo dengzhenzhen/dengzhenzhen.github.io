@@ -7,9 +7,9 @@ author:     dengzhenzhen
 header-img: img/post-bg-EmailLogos.png
 catalog: true
 tags:
-    -smtplib
-    -email
-    -邮件
+    - smtplib
+    - email
+    - 邮件
 ---
 
 ## smtplib模块
