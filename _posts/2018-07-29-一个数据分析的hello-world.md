@@ -4,7 +4,7 @@ title:      一个数据分析的hello-world
 subtitle:   泰坦尼克号事故生还率和各因素之间数据分析
 date:       2018-07-29
 author:     dengzhenzhen
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-titanic.jpg
 catalog: 	 true
 tags:
     - python
