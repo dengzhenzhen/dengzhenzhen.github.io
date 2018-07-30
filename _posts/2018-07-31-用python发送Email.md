@@ -1,4 +1,3 @@
-
 ---
 layout:     post
 title:      "用smtplib和email模块发送邮件"
@@ -6,11 +5,11 @@ subtitle:   "顺便了解email的组成"
 date:       2018-07-31
 author:     dengzhenzhen
 header-img: img/post-bg-EmailLogos.png
-catalog: 	 true
+catalog: true
 tags:
-    -smtplib
-    -email
-    -邮件
+    - smtplib
+    - email
+    - 邮件
 ---
 
 ## smtplib模块
