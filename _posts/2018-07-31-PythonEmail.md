@@ -34,7 +34,7 @@ import smtplib
 
 ```python
 from_addr = '374894000@qq.com'
-password = 'lkeaqrxhflbhbjjj'
+password = '**************'
 ```
 
 使用QQ邮箱的话，应该用**授权码**来代替邮箱密码
