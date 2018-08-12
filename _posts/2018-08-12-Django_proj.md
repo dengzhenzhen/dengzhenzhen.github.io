@@ -166,10 +166,9 @@ open('xxx.html').read()
 
 
 ```python
-#{% l o a d static %}
 #<script type="text/javascript" src="{% static 'AQI/echarts.min.js' %}"></script>
 ```
-这里load和博客模板有冲突，所以打了空格
+
 
 这样html就能加载js脚本了
 
