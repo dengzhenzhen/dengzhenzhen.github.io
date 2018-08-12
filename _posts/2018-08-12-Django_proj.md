@@ -166,8 +166,8 @@ open('xxx.html').read()
 
 
 ```python
-{% load static %}
-<script type="text/javascript" src="{% static 'AQI/echarts.min.js' %}"></script>
+#{% load static %}
+#<script type="text/javascript" src="{% static 'AQI/echarts.min.js' %}"></script>
 ```
 
 这样html就能加载js脚本了
