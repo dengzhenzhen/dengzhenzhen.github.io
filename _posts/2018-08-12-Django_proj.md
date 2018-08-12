@@ -165,7 +165,7 @@ open('xxx.html').read()
 - 在html文件加上：
 
 
-```python
+```html
 #<script type="text/javascript" src="{% static 'AQI/echarts.min.js' %}"></script>
 ```
 
