@@ -4,7 +4,7 @@ title:      "利用Django和pyecharts将AQI可视化"
 subtitle:   "初步学习Django使用"
 date:       2018-08-11
 author:     dengzhenzhen
-header-img: img/post-bg-Django.png
+header-img: img/post-bg-Django.jpg
 catalog: true
 tags:
     - Django
