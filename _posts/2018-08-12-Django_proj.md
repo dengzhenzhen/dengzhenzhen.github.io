@@ -34,7 +34,7 @@ AQI_map将全国主要城市的AQI显示在地图上，每个城市的点大小�
 
 
 ```python
-!python --version
+#!python --version
 ```
 
     Python 3.6.0 :: Anaconda 4.3.0 (64-bit)
@@ -233,12 +233,12 @@ models改动之后，需要运行命令来把改动应用到数据库中：
 
 
 ```python
-!python manage.py makemigrations AQI
+#!python manage.py makemigrations AQI
 ```
 
 
 ```python
-!python manage.py migrate
+#!python manage.py migrate
 ```
 
 migrate之后，表的修改就完成了，可以进行增删查改blablabla
