@@ -165,9 +165,7 @@ open('xxx.html').read()
 - 在html文件加上：
 
 
-```html
-#<script type="text/javascript" src="{% static 'AQI/echarts.min.js' %}"></script>
-```
+
 
 
 这样html就能加载js脚本了
