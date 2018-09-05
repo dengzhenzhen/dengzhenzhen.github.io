@@ -80,13 +80,11 @@ gitalk:
 ga_track_id: 'UA-123015399-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
-math:
-  enable: true
-  # Default(true) will load mathjax/katex script on demand
-  # That is it only render those page who has 'mathjax: true' in Front Matter.
-  # If you set it to false, it will load mathjax/katex srcipt EVERY PAGE.
+# MathJax Support
+mathjax:
+  enable: false
   per_page: false
-  engine: mathjax
+  cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
 
 
 
