@@ -36,7 +36,7 @@ tags:
 ### 具体配置
 
 #### Client：
-```json
+```javascript
 {
   "inbounds": [
     {
@@ -165,7 +165,7 @@ tags:
 ```
 
 #### Server:
-```json
+```javascript
 {
   "inbounds": [
     {
