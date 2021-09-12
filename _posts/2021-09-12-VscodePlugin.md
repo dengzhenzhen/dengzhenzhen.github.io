@@ -28,7 +28,7 @@ tags:
 
 2.1 Node.js 安装配置
 
-点这个 [Node.js 安装配置 | 菜鸟教程](https://www.runoob.com/nodejs/nodejs-install-setup.html) 看nodejs配置
+点这个 [Node.js 安装配置](https://www.runoob.com/nodejs/nodejs-install-setup.html) 看nodejs配置
 
 
 2.2 安装vscode开发环境
